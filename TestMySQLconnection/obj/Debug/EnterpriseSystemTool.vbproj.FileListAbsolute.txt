@@ -1,0 +1,101 @@
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.config
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.manifest
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.application
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.pdb
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbprojResolveAssemblyReference.cache
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraProperties.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.LandingPad.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Cameras.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Resources.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServerProperties.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServiceRestart.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SettingsForm.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SQLPanel.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.GenerateResource.Cache
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.TrustInfo.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe.manifest
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.application
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.xml
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.pdb
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraFirmware.resources
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.CoreCompileInputs.cache
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.config
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.manifest
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.application
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.pdb
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.xml
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbprojResolveAssemblyReference.cache
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraFirmware.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraProperties.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.LandingPad.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Cameras.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Lpr.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Resources.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServerProperties.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServiceRestart.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SettingsForm.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SQLPanel.resources
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.GenerateResource.Cache
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.CoreCompileInputs.cache
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.TrustInfo.xml
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe.manifest
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.application
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.xml
+Z:\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.pdb
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.config
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.manifest
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.application
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.pdb
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.xml
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbprojResolveAssemblyReference.cache
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraFirmware.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraProperties.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.LandingPad.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Cameras.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Lpr.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Resources.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServerProperties.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServiceRestart.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SettingsForm.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SQLPanel.resources
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.GenerateResource.Cache
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.CoreCompileInputs.cache
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.TrustInfo.xml
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe.manifest
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.application
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.xml
+Z:\Mike\Work\VB_Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.pdb
+C:\Users\mreading\Documents\Visual Studio 2017\Projects\EnterpriseSystemTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Lpr.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.config
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe.manifest
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.application
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.exe
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.pdb
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\bin\Debug\EnterpriseSystemTool.xml
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbprojAssemblyReference.cache
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Bitrate.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraFirmware.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraProperties.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.LandingPad.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Cameras.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Lpr.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.Resources.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServerProperties.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.ServiceRestart.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SettingsForm.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.SQLPanel.resources
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.GenerateResource.cache
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.vbproj.CoreCompileInputs.cache
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.TrustInfo.xml
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe.manifest
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.application
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.exe
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.xml
+D:\GitHub\Repos\EnterpriseCameraTool\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.pdb

@@ -1,0 +1,12 @@
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Release\TestMySQLconnection.exe.config
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Release\TestMySQLconnection.exe
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Release\TestMySQLconnection.pdb
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Release\TestMySQLconnection.xml
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.LandingPad.resources
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.Inventory.resources
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.Resources.resources
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.vbproj.GenerateResource.Cache
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.exe
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.xml
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.pdb
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Release\TestMySQLconnection.SettingsForm.resources

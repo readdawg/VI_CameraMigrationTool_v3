@@ -1,0 +1,16 @@
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Debug\TestMySQLconnection.exe.config
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Debug\TestMySQLconnection.exe
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Debug\TestMySQLconnection.pdb
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\bin\Debug\TestMySQLconnection.xml
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.vbprojResolveAssemblyReference.cache
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.LandingPad.resources
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.Resources.resources
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.vbproj.GenerateResource.Cache
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.exe
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.xml
+c:\users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.pdb
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.SettingsForm.resources
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.CameraProperties.resources
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.Cameras.resources
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.ServerProperties.resources
+C:\Users\mreading\documents\visual studio 2015\Projects\TestMySQLconnection\TestMySQLconnection\obj\Debug\TestMySQLconnection.SQLPanel.resources
