@@ -2,7 +2,7 @@
 Imports System.IO
 Imports System.Net
 
-Public Class CameraMig2
+Public Class StoragePathChange
 
     Private Sub CameraFirmware_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
@@ -72,13 +72,11 @@ Public Class CameraMig2
             dgvCameras.Rows(n).Cells(3).Value = r("RecordingLocalDataPath").ToString()
             dgvCameras.Rows(n).Cells(4).Value = r("CameraID")
 
-
         Next
 
     End Sub
 
     Private Sub btnUpgrade_Click(sender As Object, e As EventArgs) Handles btnUpgrade.Click
-
 
         Dim path As String = txtPath.Text
         Dim Query As String = ""
@@ -105,7 +103,6 @@ Public Class CameraMig2
 
     End Sub
 
-
     Public Sub StorageUpdate(CameraID As Int32, Optional Query As String = "")
 
         If Query = "" Then
@@ -125,29 +122,16 @@ Public Class CameraMig2
 
     End Sub
 
-
-
-
-
-
-
     Private Sub btnBrowse_Click(sender As Object, e As EventArgs) Handles btnBrowse.Click
 
         'open the openfile dialog so the user can search for a file
         Dim openFileDialog1 As New OpenFileDialog()
         Dim openFolderDialog1 As New FolderBrowserDialog()
 
-
-        'set the root to the z drive
-        'openFolderDialog1.RootFolder = "c:\"
-        'make sure the root goes back to where the user started
-        'openFileDialog1.RestoreDirectory = True
-
-
-
         'show the dialog
         openFolderDialog1.ShowDialog()
 
+        'Populate textbox with selected path
         txtPath.Text = openFolderDialog1.SelectedPath
 
     End Sub

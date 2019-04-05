@@ -77,5 +77,9 @@
 
     End Sub
 
+    Private Sub StoragePathToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles StoragePathToolStripMenuItem.Click
 
+        StoragePathChange.Show()
+
+    End Sub
 End Class

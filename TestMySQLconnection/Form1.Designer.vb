@@ -36,6 +36,7 @@ Partial Class LandingPad
         Me.SoftwareToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ServiceRestartToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LPRToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.StoragePathToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.msMain.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -59,12 +60,12 @@ Partial Class LandingPad
         'ConnectionInfoToolStripMenuItem
         '
         Me.ConnectionInfoToolStripMenuItem.Name = "ConnectionInfoToolStripMenuItem"
-        Me.ConnectionInfoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ConnectionInfoToolStripMenuItem.Size = New System.Drawing.Size(160, 22)
         Me.ConnectionInfoToolStripMenuItem.Text = "Connection Info"
         '
         'miHardware
         '
-        Me.miHardware.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CameraListingToolStripMenuItem, Me.ChangeRecordingTypeToolStripMenuItem, Me.ChangeServerPropertiesToolStripMenuItem, Me.FirmwareUpgradeToolStripMenuItem, Me.BitrateUpdateToolStripMenuItem})
+        Me.miHardware.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CameraListingToolStripMenuItem, Me.ChangeRecordingTypeToolStripMenuItem, Me.ChangeServerPropertiesToolStripMenuItem, Me.FirmwareUpgradeToolStripMenuItem, Me.BitrateUpdateToolStripMenuItem, Me.StoragePathToolStripMenuItem})
         Me.miHardware.Name = "miHardware"
         Me.miHardware.Size = New System.Drawing.Size(65, 20)
         Me.miHardware.Text = "Cameras"
@@ -122,14 +123,20 @@ Partial Class LandingPad
         'ServiceRestartToolStripMenuItem
         '
         Me.ServiceRestartToolStripMenuItem.Name = "ServiceRestartToolStripMenuItem"
-        Me.ServiceRestartToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ServiceRestartToolStripMenuItem.Size = New System.Drawing.Size(150, 22)
         Me.ServiceRestartToolStripMenuItem.Text = "Service Restart"
         '
         'LPRToolStripMenuItem
         '
         Me.LPRToolStripMenuItem.Name = "LPRToolStripMenuItem"
-        Me.LPRToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.LPRToolStripMenuItem.Size = New System.Drawing.Size(150, 22)
         Me.LPRToolStripMenuItem.Text = "LPR"
+        '
+        'StoragePathToolStripMenuItem
+        '
+        Me.StoragePathToolStripMenuItem.Name = "StoragePathToolStripMenuItem"
+        Me.StoragePathToolStripMenuItem.Size = New System.Drawing.Size(215, 22)
+        Me.StoragePathToolStripMenuItem.Text = "Storage Path"
         '
         'LandingPad
         '
@@ -163,4 +170,5 @@ Partial Class LandingPad
     Friend WithEvents FirmwareUpgradeToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents LPRToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents BitrateUpdateToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents StoragePathToolStripMenuItem As ToolStripMenuItem
 End Class

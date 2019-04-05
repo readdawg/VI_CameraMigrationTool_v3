@@ -147,6 +147,7 @@ Partial Class CameraMig2
         Me.cbxServerList.Location = New System.Drawing.Point(13, 13)
         Me.cbxServerList.Name = "cbxServerList"
         Me.cbxServerList.Size = New System.Drawing.Size(401, 21)
+        Me.cbxServerList.Sorted = True
         Me.cbxServerList.TabIndex = 6
         '
         'CameraMig2

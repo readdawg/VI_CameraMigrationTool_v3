@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnterpriseSystemTool.exe" size="80384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EnterpriseSystemTool.exe" size="86528">
       <assemblyIdentity name="EnterpriseSystemTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TPQZSiCqLOn+H+P15k3RCRAxZqYKynP3qU8glCY37cw=</dsig:DigestValue>
+        <dsig:DigestValue>utWOTDOkouwsNpy9jVCjW34oDnjIi+E/VhMJkap64OA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

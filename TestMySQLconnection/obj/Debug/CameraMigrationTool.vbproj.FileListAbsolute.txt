@@ -24,3 +24,4 @@ D:\GitHub\Repos\VI_CameraMigrationTool_v3\TestMySQLconnection\obj\Debug\Enterpri
 D:\GitHub\Repos\VI_CameraMigrationTool_v3\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.xml
 D:\GitHub\Repos\VI_CameraMigrationTool_v3\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.pdb
 D:\GitHub\Repos\VI_CameraMigrationTool_v3\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.CameraMig2.resources
+D:\GitHub\Repos\VI_CameraMigrationTool_v3\TestMySQLconnection\obj\Debug\EnterpriseSystemTool.StoragePathChange.resources
